@@ -11,3 +11,5 @@
 ## Links
 
 * https://github.com/bigscience-workshop/petals/blob/main/src/petals/server/handler.py
+* https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/ChainlinkClient.sol
+* https://docs.chain.link/any-api/api-reference#buildchainlinkrequest
